@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav Raj</h1>
-<h3 align="center">👨‍💻 Full-Stack Developer | Final Year CSE Student | Problem Solver</h3>
+<h3 align="center">👨‍💻 Aspiring Full-Stack Developer | Final Year CSE Student | Problem Solver</h3>
 
 <p align="center">
 🔹 Passionate about building scalable web applications with <strong>React.js</strong> <br>
