@@ -1,13 +1,28 @@
 <h1 align="center">Hi 👋, I'm Gaurav Raj</h1>
 
+<h3 align="center">👨‍💻 Full-Stack Developer | Final Year CSE Student | Problem Solver</h3>
+
+<p align="center">
+🔹 Passionate about building scalable web applications with <strong>React.js</strong>  
+🔹 Completed <strong>300+ LeetCode problems</strong> in Java  
+🔹 Top 10 in Mercer Mettl Limitless Hackathon for the <strong>Code Sync System</strong>  
+🔹 Currently enhancing my skills in <strong>frontend development</strong>  
+</p>
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gaurav-raj-a3aa4a252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav-raj-a3aa4a252" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gaurav-raj-a3aa4a252" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav-raj-a3aa4a252" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">My LeetCode:</h3>
 <p align="left">
-<a href="https://www.leetcode.com/gauravraj08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gauravraj08" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/gauravraj08" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gauravraj08" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -32,6 +47,7 @@
 </a> 
 </p>
 
+<h3 align="left">GitHub Stats:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravraj08&show_icons=true&locale=en&layout=compact" alt="gauravraj08" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravraj08&" alt="gauravraj08" /></p>
